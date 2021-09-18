@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Scrap the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K4RiS",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
